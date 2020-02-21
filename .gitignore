@@ -1,0 +1,4 @@
+# For Go env
+bin/
+pkg/
+*.swp
